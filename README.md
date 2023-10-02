@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joxeluis254
 - 👀 I’m interested in ...becoming a fullstack software and web developer.
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...any software or web developmentprojects  mostly as aback end junior developer.
+- 💞️ I’m looking to collaborate on ...any software or web development projects  mostly as aback end junior developer.
 - 📫 How to reach me ...Reach on email jnk6159@gmail.com
 
 <!---
